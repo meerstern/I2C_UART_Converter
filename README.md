@@ -15,6 +15,9 @@ I2C-UART Converter with Grove Connector
    
 <img src="https://raw.githubusercontent.com/meerstern/I2C_UART_Converter/master/IR_2.jpg" width="360">
     
+<img src="https://raw.githubusercontent.com/meerstern/I2C_UART_Converter/master/img1.jpg" width="360">
+
+<img src="https://raw.githubusercontent.com/meerstern/I2C_UART_Converter/master/img2.jpg" width="360">
     
 [1]: https://www.nxp.com/products/peripherals-and-logic/signal-chain/bridges/single-uart-with-i2c-bus-spi-interface-64-bytes-of-transmit-and-receive-fifos-irda-sir-built-in-support:SC16IS740_750_760 "*1"
 
