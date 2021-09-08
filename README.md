@@ -10,6 +10,9 @@ I2C-UART Converter with Grove Connector
   * I2C/UARTプロトコルブリッジSC16IS740は64bytesのバッファを内蔵しています
   * 7.3728MHzの水晶発振子を搭載しており、マイコンのメインクロックから独立してUARTのボーレート設定ができます  
 
+## 注意 
+  * Arduino Uno以外の場合はサンプルコード内SC16IS750.cppの29行目付近のWire定義を必要に応じて変更してください  
+
 
 <img src="https://raw.githubusercontent.com/meerstern/I2C_UART_Converter/master/IR.jpg" width="360">
    
