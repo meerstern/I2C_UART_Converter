@@ -9,6 +9,7 @@ I2C-UART Converter with Grove Connector
   * I2CはGrove互換コネクタとなっており、3.3V/５Vの電源、通信に対応しています
   * I2C/UARTプロトコルブリッジSC16IS740は64bytesのバッファを内蔵しています
   * 7.3728MHzの水晶発振子を搭載しており、マイコンのメインクロックから独立してUARTのボーレート設定ができます  
+  * デフォルトのI2Cアドレスは0X9A(7bitアドレス)です  
 
 ## 注意 
   * Arduino Uno以外の場合はサンプルコード内SC16IS750.cppの29行目付近のWire定義を必要に応じて変更してください  
