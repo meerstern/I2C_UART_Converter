@@ -14,6 +14,8 @@ I2C-UART Converter with Grove Connector
 ## 注意 
   * Arduino Uno以外の場合はサンプルコード内SC16IS750.cppの29行目付近のWire定義を必要に応じて変更してください  
 
+## 販売サイト
+  * [スイッチサイエンス][2]
 
 <img src="https://raw.githubusercontent.com/meerstern/I2C_UART_Converter/master/IR.jpg" width="360">
    
@@ -24,5 +26,5 @@ I2C-UART Converter with Grove Connector
 <img src="https://raw.githubusercontent.com/meerstern/I2C_UART_Converter/master/img2.jpg" width="360">
     
 [1]: https://www.nxp.com/products/peripherals-and-logic/signal-chain/bridges/single-uart-with-i2c-bus-spi-interface-64-bytes-of-transmit-and-receive-fifos-irda-sir-built-in-support:SC16IS740_750_760 "*1"
-
+[2]: https://www.switch-science.com/products/6027
 MIT Lisense
